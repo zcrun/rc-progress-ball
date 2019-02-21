@@ -2,7 +2,7 @@
 
 水波进度球组件 react 实现
 
-![example](./docs/imgs/example.gif)
+![example](./docs/img/example.gif)
 
 ## Install
 
