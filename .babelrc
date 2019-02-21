@@ -1,0 +1,17 @@
+{
+  "presets": [
+    ["env", {
+      "targets": {
+        "browsers": ["IE >= 9"]
+      },
+      "useBuiltIns": true
+    }],
+    'es2015', 'stage-2', 'react'],
+  "plugins": [
+    ["transform-runtime", {
+        "helpers": false,
+        "polyfill": true,
+        "regenerator": true
+    }],
+    "transform-class-properties"]
+}
