@@ -1,6 +1,6 @@
 {
   "name": "rc-progress-ball",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "progress for react",
   "main": "lib/index.js",
   "scripts": {
@@ -57,6 +57,7 @@
   },
   "files": [
     "README.md",
+    "docs/",
     "lib/"
   ],
   "homepage": "https://github.com/qizhancheng/rc-progressBall.git#readme",
